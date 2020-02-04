@@ -1,11 +1,11 @@
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 
-**Dataset
+# Dataset
 
 Human Activity Recognition Using Smartphones
 
-**Files
+# Files
 
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
